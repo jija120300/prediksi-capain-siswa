@@ -1,1 +1,1 @@
-# prediksi-capain-siswa
+# prediksi-capaian-siswa
